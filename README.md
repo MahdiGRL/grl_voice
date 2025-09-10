@@ -5,7 +5,7 @@ If you previously used `voice_enablePhones` you will instead need to use `voice_
 
 If you were previously using the state bag getter `Player(source).state.phone` you will instead need to use `Player(source).state.call`
 
-# pma-voice
+# grl_voice (pma-voice)
 A voice system designed around the use of FiveM/RedM internal mumble server.
 
 ## Support
